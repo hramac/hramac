@@ -19,7 +19,7 @@ I’m a passionate Master's student in Information Management at the University 
 
 **🌐 Let’s Connect!**
 
-- 📧 Email: [Email](harshi07@umd.edu)
+- 📧 Email: [Email](mailto:harshi07@umd.edu)
 - 💼 LinkedIn: [LinkedIn](http://www.linkedin.com/in/harshitha-ramachandra/)
 - 👨‍💻 GitHub: [GitHub](https://github.com/hramac?tab=repositories) Explore my repositories, featuring data-driven projects ranging from ETL pipelines to predictive modeling, and feel free to reach out for collaboration, career opportunities or tech discussions!
 
