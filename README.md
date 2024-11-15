@@ -3,7 +3,7 @@
 
 I’m a passionate Master's student in Information Management at the University of Maryland, College Park, specializing in Data Science and Analytics. I thrive on transforming raw data into actionable insights, driving smarter decision-making and solving complex problems through innovative technology solutions.
 
-**🌟 About Me**
+### 🌟 About Me
 - - - 
 
 - Graduate Teaching Assistant at the University of Maryland, supporting students in Database Design, Project Management and Introduction to Programming courses.
@@ -11,7 +11,7 @@ I’m a passionate Master's student in Information Management at the University 
 - Extensive experience in data quality assurance and API-driven automation acquired through previous roles .
 - I believe in creating efficient, scalable data solutions that not only solve immediate challenges but also set the foundation for long-term success.
 
-**🔍 My Interests**
+### 🔍 My Interests
 - - -
 
 - **📊 Data Science & Analytics:** Building predictive models and advanced analytics pipelines.
@@ -20,7 +20,7 @@ I’m a passionate Master's student in Information Management at the University 
 - **📅 Project Management & Agile Methodologies:** Leading teams with efficient processes and clear goals using Agile and Scrum.
 - **👩‍🏫 Mentorship & Teaching:** Helping students and peers grow through hands-on learning and mentorship.
 
-**🌐 Let’s Connect!**
+### 🌐 Let’s Connect!
 - - - 
 
 - 📧 Email: [Email](mailto:harshi07@umd.edu)
