@@ -1,4 +1,4 @@
-**👋 Hi there, I’m Harshitha!**
+### 👋 Hi there, I’m Harshitha!
 - - -
 
 I’m a passionate Master's student in Information Management at the University of Maryland, College Park, specializing in Data Science and Analytics. I thrive on transforming raw data into actionable insights, driving smarter decision-making and solving complex problems through innovative technology solutions.
