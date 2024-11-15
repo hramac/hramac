@@ -1,17 +1,18 @@
 **👋 Hi there, I’m Harshitha!**
-______________________________________________________________________________________________________________________________________________________________________________
+- - -
 
 I’m a passionate Master's student in Information Management at the University of Maryland, College Park, specializing in Data Science and Analytics. I thrive on transforming raw data into actionable insights, driving smarter decision-making and solving complex problems through innovative technology solutions.
 
 **🌟 About Me**
-______________________________________________________________________________________________________________________________________________________________________________
+- - - 
+
 - Graduate Teaching Assistant at the University of Maryland, supporting students in Database Design, Project Management and Introduction to Programming courses.
 - Apprentice at Data Governance Professionals Organization (DGPO), analyzing content, developing taxonomies and surveying members to assess data governance needs.
 - Extensive experience in data quality assurance and API-driven automation acquired through previous roles .
 - I believe in creating efficient, scalable data solutions that not only solve immediate challenges but also set the foundation for long-term success.
 
 **🔍 My Interests**
-______________________________________________________________________________________________________________________________________________________________________________
+- - -
 
 - **📊 Data Science & Analytics:** Building predictive models and advanced analytics pipelines.
 - **📈 Data Visualization:** Creating interactive dashboards and visual analytics to tell compelling data stories.
@@ -20,7 +21,7 @@ ________________________________________________________________________________
 - **👩‍🏫 Mentorship & Teaching:** Helping students and peers grow through hands-on learning and mentorship.
 
 **🌐 Let’s Connect!**
-______________________________________________________________________________________________________________________________________________________________________________
+- - - 
 
 - 📧 Email: [Email](mailto:harshi07@umd.edu)
 - 💼 LinkedIn: [LinkedIn](http://www.linkedin.com/in/harshitha-ramachandra/)
